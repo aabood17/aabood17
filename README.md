@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineering  | Passionate about coding, learning, and building meaningful projects.<br><br>🔧 Proficient in: PHP, Laravel, Java, Flutter , HTML/CSS  <br>🌱 Currently learning: Full-Stack Web Development  <br>🚀 Interested in: Open Source, AI, and Cloud Computing<br><br>📚 Always curious, always coding. <br>
+👨‍💻 Software Engineer | Passionate about coding, learning, and building meaningful projects.<br><br>🔧 Proficient in: PHP, Laravel, Java, Flutter , HTML/CSS  <br>🌱 Currently learning: Full-Stack Web Development  <br>🚀 Interested in: Open Source, AI, and Cloud Computing<br><br>📚 Always curious, always coding. <br>
 
 
 ## 🌐 Socials:
